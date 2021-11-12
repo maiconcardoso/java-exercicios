@@ -3,7 +3,7 @@ package numbers_datas_strings;
 import java.text.NumberFormat;
 import java.util.Locale;
 
-public class Aplication {
+public class AplicationNumberFormat {
     public static void main(String[] args) {
         double d = 1145.4;
 
